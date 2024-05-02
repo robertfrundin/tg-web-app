@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.Button {
+  background-color: var(--tg-theme-secondary-bg-color);
+}
